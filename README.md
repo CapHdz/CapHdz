@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CapHdz
+- 👀 I’m interested in backend develoment
+- 🌱 I’m currently learning Node.js
